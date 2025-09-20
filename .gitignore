@@ -1,0 +1,54 @@
+# Node.js dependencies
+node_modules/
+npm-debug.log
+yarn-error.log
+package-lock.json
+yarn.lock
+
+# Build output
+dist/
+build/
+out/
+coverage/
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Logs
+logs/
+*.log
+pids/
+*.pid
+*.seed
+
+# OS generated files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Angular specific
+.angular/
+.angular/cache/
+
+# React specific
+*.tsbuildinfo
+
+# TypeScript
+*.tsbuildinfo
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# Debug
+*.local
+*.swp
