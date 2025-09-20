@@ -8,10 +8,6 @@ LearnNodejs is a tutorial series for mastering Node.js, covering server-side Jav
 - Follow the provided tutorials and examples.
 - Build Node.js applications and RESTful APIs.
 
-## My name 
- test project 
- 
-
 ### Contact
 📧 For any inquiries, please contact Lalitkatheriya9941@gmail.com.
 
